@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="choose_your_meme">Choose your meme</string>
+    <string name="meme_generator">Meme Generator</string>
+    <string name="positive_meme">Positive Meme</string>
+    <string name="push_the_button">go</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
